@@ -1,0 +1,15 @@
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\StructureMap.SolrNetIntegration.XML
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\StructureMap.SolrNetIntegration.dll
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\StructureMap.SolrNetIntegration.pdb
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\SolrNet.dll
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\StructureMap.dll
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\HttpWebAdapters.dll
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\SolrNet.pdb
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\SolrNet.xml
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\StructureMap.xml
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\HttpWebAdapters.pdb
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\bin\Debug\HttpWebAdapters.xml
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\obj\Debug\StructureMap.SolrNetIntegration.csprojResolveAssemblyReference.cache
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\obj\Debug\StructureMap.SolrNetIntegration.dll
+C:\Users\ted.zhanghl\Downloads\SolrNet-master\StructureMap.SolrNetIntegration\obj\Debug\StructureMap.SolrNetIntegration.pdb
